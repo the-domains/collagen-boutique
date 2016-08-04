@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[collagen boutique]]></title>
         <description><![CDATA[collagen boutique]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/collagen-boutique/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 21:26:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 21:27:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/collagen-boutique/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Best Hostel in Every Major European City]]></title>
+            <description><![CDATA[<article><h1>The Best Hostel in Every Major European City</h1><p>Staying at hostels was once a backpacker's rite of passage. After all, nothing builds character like fighting for power outlets,&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c6b94d156dc880d5a3bde273b4b321f30df92e.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/travel/nation/the-best-hostel-in-every-major-european-city-amsterdam-paris-berlin/travel</link>
+            <guid isPermaLink="false">8d4a22d0-6dd6-4411-a0d5-99e39d43cc95</guid>
+            <pubDate>Thu, 04 Aug 2016 21:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super stylli: our pick of the finest (and most stylish) smart-pens.]]></title>
+            <description><![CDATA[<article><h1>Super stylli: our pick of the finest (and most stylish) smart-pens.</h1><p>Before touchpads, the stylus was at the cutting edge of data entry. And while designers and CAD operators remain devoted to the device, the advent of the touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big players are now rolling out a new era of smart stationery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8ee90cdb71d0172520dfe163b9d60343600194.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/the-best-and-most-stylish-computer-pens</link>
+            <guid isPermaLink="false">6fe2a85c-fa70-4640-a7eb-6b6ba8df4fd0</guid>
+            <pubDate>Thu, 04 Aug 2016 21:26:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All is in Bloom for Spring, A Cultural Calendar: April, 2016 - the coffeetographer]]></title>
             <description><![CDATA[<article><h1>All is in Bloom for Spring, A Cultural Calendar: April, 2016 - the coffeetographer</h1><p>hello april All is in bloom, spring included. April is here, and with it, the awakening of the years most coveted indoor and outdoor festivals returning cultural events, pop-ups and original programming worthy of streaming. Wake up your alfresco spirits with The Coffeetographer's calendar of coffee culture for April, that you should bookmark now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a04978806b62979e9539b72bd8795058308b009.jpg"></article>]]></description>
