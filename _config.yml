@@ -1,13 +1,6 @@
-name: collagen boutique
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e277a2-3744-4f94-b5e5-9d4889589ff3.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/491aa32f-7567-4ca2-8536-c3c07f9528da.jpg
-layout_spectrum: 0.4208437120912748
 typography_spectrum: 0.9806776896971803
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#16193B'
@@ -19,10 +12,17 @@ color:
   lightness: 0.6972423129221066
   saturation: 0.6467468165935033
   rhythmicContrast: 0.5128591518483627
-title: ''
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.4208437120912748
 author:
   name: Michal Graf
   url: ''
   email: ''
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/491aa32f-7567-4ca2-8536-c3c07f9528da.jpg
+name: collagen boutique
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e277a2-3744-4f94-b5e5-9d4889589ff3.jpg
+title: Exclusive support for you and your body
