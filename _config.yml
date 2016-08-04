@@ -1,0 +1,14 @@
+name: collagen boutique
+layout_spectrum: 0.4208437120912748
+typography_spectrum: 0.9806776896971803
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.5234020090938252
+  lightness: 0.6972423129221066
+  saturation: 0.6467468165935033
+  rhythmicContrast: 0.5128591518483627
