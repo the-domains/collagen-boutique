@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-04T22:08:38.997Z'
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-04T22:07:29.813Z'
 title: ''
+datePublished: '2016-08-04T22:09:02.690Z'
+dateModified: '2016-08-04T22:08:59.808Z'
 publisher: {}
+author: []
+hasPage: true
 description: >-
-  Here I amm with the new webpage dedicated to brilliant products of COLWAY and
+  Here I am with the new webpage dedicated to brilliant products of COLWAY and
   ColwayInternational.
+via: {}
 starred: false
 sourcePath: >-
   _posts/2016-08-04-here-i-amm-with-the-new-webpage-dedicated-to-brilliant-produ.md
@@ -18,7 +18,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc692286-a906-42aa-9ac7-0cc1bcea9fed.png)
 
-Here I amm with the new webpage dedicated to brilliant products of COLWAY and ColwayInternational.
+Here I am with the new webpage dedicated to brilliant products of COLWAY and ColwayInternational.
 
 I will try to post as often as possible information which may help you select the best product for you!
 
