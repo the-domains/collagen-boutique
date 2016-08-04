@@ -1,8 +1,10 @@
 ---
 title: ''
-datePublished: '2016-08-04T22:09:02.690Z'
-dateModified: '2016-08-04T22:08:59.808Z'
-publisher: {}
+datePublished: '2016-08-04T22:22:16.934Z'
+dateModified: '2016-08-04T22:22:01.179Z'
+publisher:
+  name: Mike
+  url: 'https://graf.colwayinternational.com'
 author: []
 hasPage: true
 description: >-
