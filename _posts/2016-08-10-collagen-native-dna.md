@@ -3,14 +3,15 @@ at__type: MediaObject
 at__context: 'http://schema.org'
 isBasedOnUrl: 'https://colwayinternational.com/shop/products/7/145,collagen-native-dna.html'
 title: Collagen Native DNA
-dateModified: '2016-08-10T21:30:15.690Z'
+datePublished: '2016-08-10T21:33:14.606Z'
+dateModified: '2016-08-10T21:33:05.914Z'
 publisher:
   name: Colway International
   domain: colwayinternational.com
   url: 'https://colwayinternational.com'
   favicon: 'https://colwayinternational.com/images/favicon.png'
 author:
-  - name: Colway International
+  - name: Michal
     avatar: {}
 inFeed: true
 description: >-
@@ -20,7 +21,6 @@ description: >-
   support and activate natural processes creating connective tissue. It
   intensely stimulates cells to function properly.
 via: {}
-datePublished: '2016-08-10T21:30:38.568Z'
 starred: false
 sourcePath: _posts/2016-08-10-collagen-native-dna.md
 _type: MediaObject
