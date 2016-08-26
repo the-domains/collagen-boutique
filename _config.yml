@@ -36,6 +36,9 @@ navigation:
   - name: Products
     id: 7487681d-3b79-46e4-856c-5e26f71f2a96
     type: content
+  - name: ingridients
+    id: eadeeb73-5752-46f0-bb3f-23db35ed3344
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e277a2-3744-4f94-b5e5-9d4889589ff3.jpg
 title: Exclusive support for you and your body
