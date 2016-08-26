@@ -1,6 +1,37 @@
+name: collagen-boutique
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e277a2-3744-4f94-b5e5-9d4889589ff3.jpg
+layout_spectrum: 0.99558
 typography_spectrum: 0.60849
 content_rating:
   adult: false
+author:
+  name: Michal Graf
+  url: ''
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/491aa32f-7567-4ca2-8536-c3c07f9528da.jpg
+navigation:
+  - name: Products
+    id: 7487681d-3b79-46e4-856c-5e26f71f2a96
+    type: content
+  - name: ingridients
+    id: eadeeb73-5752-46f0-bb3f-23db35ed3344
+    type: content
+title: Exclusive support for you and your body
+description: Exclusive cosmetics and supplements with bio-active collagen
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#16193B'
@@ -12,35 +43,4 @@ color:
   lightness: 0.25
   saturation: 0.875
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: ''
-  appId: ''
-layout_spectrum: 0.32846
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Michal Graf
-  url: ''
-  email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/491aa32f-7567-4ca2-8536-c3c07f9528da.jpg
-name: collagen.boutique
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Products
-    id: 7487681d-3b79-46e4-856c-5e26f71f2a96
-    type: content
-  - name: ingridients
-    id: eadeeb73-5752-46f0-bb3f-23db35ed3344
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e277a2-3744-4f94-b5e5-9d4889589ff3.jpg
-title: Exclusive support for you and your body
-description: Exclusive cosmetics and supplements with bio-active collagen
 purpose: []
