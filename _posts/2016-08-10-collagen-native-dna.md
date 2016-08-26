@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-26T00:46:11.059Z'
+datePublished: '2016-08-26T00:47:31.454Z'
 sourcePath: _posts/2016-08-10-collagen-native-dna.md
 inFeed: true
-isBasedOnUrl: 'https://colwayinternational.com/shop/products/7/145,collagen-native-dna.html'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: Michal
     avatar: {}
 at__type: MediaObject
 via: {}
-dateModified: '2016-08-26T00:46:10.580Z'
+dateModified: '2016-08-26T00:47:30.901Z'
 title: Collagen Native DNA - keep your DNA safe!
 publisher:
   name: Colway International
@@ -23,7 +22,8 @@ description: 'The depreciation of the skin begins due to two reasons: '
 inLanguage: null
 inNav: false
 starred: false
-_type: MediaObject
+url: collagen-native-dna-keep-your-dna-safe/index.html
+_type: Article
 
 ---
 # Collagen Native DNA - keep your DNA safe!
