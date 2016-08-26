@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2016-08-04T22:22:16.934Z'
-dateModified: '2016-08-04T22:22:01.179Z'
+datePublished: '2016-08-26T00:46:39.929Z'
+dateModified: '2016-08-26T00:35:34.800Z'
 publisher:
   name: Mike
   url: 'https://graf.colwayinternational.com'
@@ -11,11 +11,16 @@ description: >-
   Here I am with the new webpage dedicated to brilliant products of COLWAY and
   ColwayInternational.
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-04-here-i-amm-with-the-new-webpage-dedicated-to-brilliant-produ.md
+inFeed: true
+inNav: false
+inLanguage: null
+keywords: []
+authors: []
+starred: true
 url: here-i-amm-with-the-new-webpage-dedicated-to-brilliant-produ/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc692286-a906-42aa-9ac7-0cc1bcea9fed.png)
