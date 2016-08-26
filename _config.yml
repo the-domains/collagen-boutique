@@ -2,7 +2,7 @@ name: collagen.boutique
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e277a2-3744-4f94-b5e5-9d4889589ff3.jpg
 layout_spectrum: 0.4208437120912748
-typography_spectrum: 0.9806776896971803
+typography_spectrum: 0.60849
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/491aa32f-7567-4ca2-8536-c3c07f9528da.jpg
 title: Exclusive support for you and your body
@@ -31,8 +31,8 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-  brandStrength: 0.5234020090938252
-  lightness: 0.6972423129221066
-  saturation: 0.6467468165935033
-  rhythmicContrast: 0.5128591518483627
+  brandStrength: 0.875
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
